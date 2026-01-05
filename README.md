@@ -1,12 +1,12 @@
-# Project de Machine Learning
+# Project de Analyse de Données
 
 ## Environnement de travail
 
 Utilisation de `uv` pour gérer les packages python. \
 Pour commencer le développement:
 ```bash
-git clone https://github.com/A-INDUSTRIES/machlearn-projet.git
-cd machlearn-projet
+git clone https://github.com/A-INDUSTRIES/anado-projet.git
+cd anado-projet
 uv sync 
 source .venv/bin/activate
 # ou bien .venv/Scripts/activate sur Windows
